@@ -1,0 +1,15 @@
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\bin\Debug\net7.0\ExtensionAndRecursiveMethods.exe
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\bin\Debug\net7.0\ExtensionAndRecursiveMethods.deps.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\bin\Debug\net7.0\ExtensionAndRecursiveMethods.runtimeconfig.json
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\bin\Debug\net7.0\ExtensionAndRecursiveMethods.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\bin\Debug\net7.0\ExtensionAndRecursiveMethods.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\obj\Debug\net7.0\ExtensionAndRecursiveMethods.csproj.AssemblyReference.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\obj\Debug\net7.0\ExtensionAndRecursiveMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\obj\Debug\net7.0\ExtensionAndRecursiveMethods.AssemblyInfoInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\obj\Debug\net7.0\ExtensionAndRecursiveMethods.AssemblyInfo.cs
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\obj\Debug\net7.0\ExtensionAndRecursiveMethods.csproj.CoreCompileInputs.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\obj\Debug\net7.0\ExtensionAndRecursiveMethods.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\obj\Debug\net7.0\refint\ExtensionAndRecursiveMethods.dll
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\obj\Debug\net7.0\ExtensionAndRecursiveMethods.pdb
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\obj\Debug\net7.0\ExtensionAndRecursiveMethods.genruntimeconfig.cache
+C:\Users\erkan\OneDrive\Masaüstü\Pratikler\ExtensionAndRecursiveMethods\obj\Debug\net7.0\ref\ExtensionAndRecursiveMethods.dll
